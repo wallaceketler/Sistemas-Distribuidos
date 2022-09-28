@@ -1,0 +1,62 @@
+body{
+    background-color: #F5F5F5;
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+}
+
+.index-container{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    font-family: Poppins;
+}
+
+.index-input1{
+    padding-bottom: 30px;
+}
+
+
+.index-input2{
+    padding-bottom: 30px;
+}
+
+
+.index-input3{
+    padding-bottom: 30px;
+}
+
+.index-input4{
+    font-family: Poppins;
+}
+
+.index-input4>button{
+    border-width: 1px;
+    border-color: black;
+    background-color: white;
+    width: 100%;
+}
+
+button:hover{
+    color:white;
+    background-color: black;
+    cursor: pointer;
+}
+
+button{
+    font-family: Poppins;
+}
+
+.navbar-container{
+    font-family: Poppins;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-text{
+    font-family: Poppins;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
